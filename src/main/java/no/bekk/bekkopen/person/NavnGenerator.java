@@ -11,9 +11,9 @@ import java.util.Random;
 
 /**
  * Generator for Norwegian names - a {@link Navn}.
- * 
+ *
  * Picks random names from the most common names in 2009.
- * 
+ *
  * <h2>Sources:</h2>
  * <ul>
  * <li><a href="http://www.ssb.no/navn/fornavn-kvinner-200.html">Statistisk
@@ -23,7 +23,7 @@ import java.util.Random;
  * <li><a href="http://www.ssb.no/navn/etternavn-200.html">Statistisk
  * Sentralbyrås liste over de 3229 mest brukte etternavn i 2009</a></li>
  * </ul>
- * 
+ *
  */
 
 public class NavnGenerator {
